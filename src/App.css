@@ -11,7 +11,7 @@
   height: 235px;
   border-radius: 30px;
   margin: 14px;
-  font-family: sans-serif;
+   font-family: sans-serif; 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
